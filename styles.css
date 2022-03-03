@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap');
+
+html {
+    margin: 0;
+    padding-top: 85px;
+    padding-left: 130px;
+    padding-right: 130px;
+    background-color: #E6EDD1;
+}
+
+.personal-section {
+    display:flex;
+}
+
+.image {
+    padding: 0;
+    height: 258px;
+    width: 214px;
+    background-color: #0F5257;
+}
+
+.image img {
+    padding: 0;
+    width: 173px;
+    height: 208px;
+    margin: 25px 21px;   
+}
+
+.name {
+    margin-left: 25px;
+    margin-top: 70px;
+}
+
+.full-name {
+    font-style: 'Open Sans', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #0B3142;
+}
+
+.nickname {
+    margin-top: 23px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}
+
+.info-section {
+    margin-top: 25px;
+}
